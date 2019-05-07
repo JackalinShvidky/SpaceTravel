@@ -727,9 +727,6 @@ body{
 		display:block;
 		opacity:0;
 	}
-	.navigation_button, .navigation_nav{
-		z-index: 9999999999999999999999999999999999;
-	}
 }
 
 @media screen and (max-width: 800px){
