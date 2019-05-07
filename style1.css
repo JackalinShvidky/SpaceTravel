@@ -676,7 +676,6 @@ body{
 @media screen and (max-width: 1200px){
 	html{
 		font-size: 50%;
-		transform: unset !important;
 	}
 
 	.test{
@@ -714,6 +713,9 @@ body{
 	}
 	.navigation_list{
 		transform: translateY(200%);
+	}
+	.planetone:hover{
+		transform: unset !important;
 	}
 }
 
