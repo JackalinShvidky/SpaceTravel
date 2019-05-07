@@ -716,6 +716,7 @@ body{
 	}
 	.planetone:hover{
 		transform: scale(1) translate(0%);
+		transform: unset !important;
 	}
 }
 
