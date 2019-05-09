@@ -727,6 +727,9 @@ body{
 		display:block;
 		opacity:0;
 	}
+	.reviews_bottom{
+	transform: translateY(-500%);
+	}
 }
 
 @media screen and (max-width: 800px){
