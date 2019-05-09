@@ -711,7 +711,7 @@ body{
 	margin-top: 0rem;
 	}
 	.test{
-		height: 10%;
+		height: 200%;
 	}
 	.review_one{
 		transform: translateY(400%);
@@ -726,9 +726,6 @@ body{
 	.Bishayissmart{
 		display:block;
 		opacity:0;
-	}
-	#transportation{
-		top: 100%;
 	}
 }
 
