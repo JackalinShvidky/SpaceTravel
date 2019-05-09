@@ -732,6 +732,12 @@ body{
 	}
 }
 
+@media screen and (max-width: 900px){
+	.test{
+		height: 1500%;
+	}
+}
+
 @media screen and (max-width: 800px){
 
 }
