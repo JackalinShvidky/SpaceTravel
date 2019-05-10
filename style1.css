@@ -575,7 +575,7 @@ body{
 }
 
 .reviews_bottom{
-/*	transform: translateY(-1000%);*/
+	transform: translateY(-1000%);
 	margin-left: 20rem;
 }
 
