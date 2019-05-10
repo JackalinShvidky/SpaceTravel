@@ -727,6 +727,9 @@ body{
 		display:block;
 		opacity:0;
 	}
+	.fill_border_blue{
+		margin-top: 100rem;
+	}
 }
 
 @media screen and (max-width: 800px){
