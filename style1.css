@@ -713,12 +713,12 @@ body{
 	.test{
 		height: 10%;
 	}
-	.review_one{
+/*	.review_one{
 		transform: translateY(400%);
 	}
 	.review_two{
 		transform: translateY(-400%);
-	}
+	}*/
 	.navigation_list{
 		transform: translateY(200%);
 	}
@@ -726,9 +726,6 @@ body{
 	.Bishayissmart{
 		display:block;
 		opacity:0;
-	}
-	.reviews_bottom{
-	transform: translateY(-500%);
 	}
 }
 
