@@ -730,10 +730,7 @@ body{
 }
 
 @media screen and (max-width: 1000px){
-	.lexilor{
-		margin-top: 10rem;
-		display: block;
-	}
+
 }
 
 @media screen and (max-width: 600px){
