@@ -727,9 +727,6 @@ body{
 		display:block;
 		opacity:0;
 	}
-	.navigation_button, .navigation_background, .navigation_nav{
-		z-index: 99999999999999999999999999999999999999;
-	}
 }
 
 @media screen and (max-width: 1000px){
