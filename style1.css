@@ -731,7 +731,7 @@ body{
 
 @media screen and (max-width: 1000px){
 	.lexilor{
-		display: none;
+		margin-top: 10rem;
 	}
 }
 
