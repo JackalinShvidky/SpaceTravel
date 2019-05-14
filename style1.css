@@ -730,7 +730,9 @@ body{
 }
 
 @media screen and (max-width: 1000px){
-	
+	.lexilor{
+		display: none;
+	}
 }
 
 @media screen and (max-width: 600px){
