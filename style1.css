@@ -738,8 +738,7 @@ body{
 
 @media screen and (max-width: 800px){
 	.fill_border_blue{
-		height: 200vh;
-  		width: 100%;
+		margin-top: 30rem;
 	}
 }
 
