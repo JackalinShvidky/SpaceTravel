@@ -736,6 +736,13 @@ body{
 	}
 }
 
+@media screen and (max-width: 800px){
+	.fill_border_blue{
+		  	height: 200vh;
+  	width: 100%;
+	}
+}
+
 @media screen and (max-width: 600px){
 	html{
 		font-size: 30%;
