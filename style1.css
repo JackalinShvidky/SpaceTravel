@@ -729,8 +729,11 @@ body{
 	}
 }
 
-@media screen and (max-width: 1000px){
-
+@media screen and (max-width: 1100px){
+	.fill_border_blue{
+		height: 200vh;
+		margin-top: 200rem;
+	}
 }
 
 @media screen and (max-width: 600px){
