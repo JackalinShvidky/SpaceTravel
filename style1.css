@@ -673,9 +673,8 @@ body{
 	top:1px;
 }
 .Bishayissmart{
-	height:80vh;
+	height:100vh;
 	width:100%;
-	transform: translateY(15rem);
 	position:fixed;
 	background-color:#fff;
 	z-index:999999999999;
