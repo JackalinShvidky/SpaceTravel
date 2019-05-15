@@ -738,7 +738,7 @@ body{
 
 @media screen and (max-width: 800px){
 	.fill_border_blue{
-		margin-top: 0rem;
+		margin-top: -20rem;
 	}
 }
 
@@ -747,7 +747,7 @@ body{
 		font-size: 30%;
 	}
 	.fill_border_blue{
-		margin-top: 0rem;
+		margin-top: -20rem;
 	}
 
 }
