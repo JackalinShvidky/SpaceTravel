@@ -749,10 +749,7 @@ body{
 	.fill_border_blue{
 		margin-top: -50rem;
 	}
-	.review_one{
-		transform: translateY(400%);
-	}
-	.review_two{
-		transform: translateY(-400%);
+	#reviews{
+		transform: translateY(100%);
 	}
 }
