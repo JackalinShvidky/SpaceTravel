@@ -709,8 +709,8 @@ body{
 	}
 	.second-container{
 	margin-top: 0rem;
-/*	}
-	.test{
+    }
+	/*.test{
 		height: 10%;
 	}*/
 /*	.review_one{
@@ -750,5 +750,4 @@ body{
 		margin-top: 100rem;
 		height: 90vh;
 	}
-}
 }
