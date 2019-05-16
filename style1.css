@@ -686,9 +686,9 @@ body{
 		font-size: 50%;
 	}
 
-	.test{
+	/*.test{
 	height: 1000%;
-	}
+	}*/
 
 	.spaceship_two, .spaceship_one{
 		display:none;
@@ -709,10 +709,10 @@ body{
 	}
 	.second-container{
 	margin-top: 0rem;
-	}
+/*	}
 	.test{
 		height: 10%;
-	}
+	}*/
 /*	.review_one{
 		transform: translateY(400%);
 	}
