@@ -746,7 +746,7 @@ body{
 	html{
 		font-size: 30%;
 	}
-	.fill_border_blue{
-		margin-top: 200rem;
+	.review_two, .review_one, .reviews_bottom{
+		top: 500%;
 	}
 }
