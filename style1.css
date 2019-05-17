@@ -730,6 +730,9 @@ body{
 	main{
 		top: 0;
 	}
+	.margin-card-top-lexilor{
+		margin-top: 50rem;
+	}
 }
 
 @media screen and (max-width: 1100px){
