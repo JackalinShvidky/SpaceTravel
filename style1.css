@@ -682,6 +682,12 @@ body{
 }
 
 @media screen and (max-width: 1200px){
+	.margin-card-top-lexilor{
+	margin-top: 3rem;
+	}
+}
+
+@media screen and (max-width: 1200px){
 	html{
 		font-size: 50%;
 	}
