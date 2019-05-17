@@ -746,6 +746,9 @@ body{
 	.fill_border_blue{
 		margin-top: -50rem;
 	}
+	.margin-card-top-lexilor{
+		margin-top: 30rem;
+	}
 }
 
 @media screen and (max-width: 600px){
