@@ -731,7 +731,7 @@ body{
 		top: 0;
 	}
 	.margin-card-top-lexilor{
-		margin-top: 55rem;
+		margin-top: 50rem;
 	}
 }
 
@@ -740,11 +740,17 @@ body{
 		margin-top: 50rem;
 		height: 90vh;
 	}
+	.margin-card-top-lexilor{
+		margin-top: 40rem;
+	}
 }
 
 @media screen and (max-width: 800px){
 	.fill_border_blue{
 		margin-top: -50rem;
+	}
+	.margin-card-top-lexilor{
+		margin-top: 30rem;
 	}
 }
 
