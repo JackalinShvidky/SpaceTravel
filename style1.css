@@ -733,9 +733,6 @@ body{
 	.margin-card-top-lexilor{
 	margin-top: 3rem;
 	}
-	.reviews_bottom{
-	transform: translateY(-100%);
-	}
 }
 
 @media screen and (max-width: 1100px){
