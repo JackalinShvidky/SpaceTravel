@@ -753,7 +753,7 @@ body{
 		margin-top: 70rem;
 	}
 	.review_two{
-		display: block;
+		display:none;
 	}
 }
 
@@ -763,6 +763,9 @@ body{
 	}
 	.margin-card-top-lexilor{
 		margin-top: 30rem;
+	}
+	.review_two{
+		display:block;
 	}
 }
 
