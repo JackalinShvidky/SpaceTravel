@@ -756,7 +756,7 @@ body{
 		display:block;		
 	}
 	.review_one{
-		top: 100rem;
+		margin-top: 100rem;
 	}
 }
 
