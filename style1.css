@@ -755,8 +755,9 @@ body{
 	.review_two{
 		display:block;		
 	}
-	.review_one{
-		margin-top: 100rem;
+	.reviews_bottom{
+	transform: translateY(-500%);
+	margin-left: 20rem;
 	}
 }
 
