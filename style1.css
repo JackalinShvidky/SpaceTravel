@@ -753,8 +753,10 @@ body{
 		margin-top: 70rem;
 	}
 	.review_two{
-		display:block;
-		margin-top: 500%;		
+		display:block;		
+	}
+	.review_one{
+		transform: translateY(500%);
 	}
 }
 
