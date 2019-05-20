@@ -756,7 +756,7 @@ body{
 		display:block;		
 	}
 	.review_one{
-		transform: translateY(100rem);
+		top: 100rem;
 	}
 }
 
