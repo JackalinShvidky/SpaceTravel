@@ -754,7 +754,7 @@ body{
 	}
 	.review_two{
 		display:block;
-		transform: translateY(100rem);
+		transform: translateY(500%);
 	}
 }
 
